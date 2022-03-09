@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var ololo = 4
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("1")
